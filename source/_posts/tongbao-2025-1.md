@@ -5,4 +5,4 @@ categories:
   - "students"
 ---
 
-[](https://blog.class612.bond/wp-content/uploads/2025/06/tongg.pdf)
+<iframe src="https://class.biss.click/pdfjs/web/viewer.html?file=/pdf/tongbao-wlk.pdf" width="100%" height="500px" frameborder="0"></iframe>
